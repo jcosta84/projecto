@@ -1,0 +1,7 @@
+{
+    "BD_USER": "sa",
+    "BD_PASSWORD": "loucoste9850053",
+    "BD_SERVER": "192.168.52.180,143",
+    "BD_NAME": "facturas",
+    "BD_DRIVER": "ODBC Driver 17 for SQL Server"
+}
